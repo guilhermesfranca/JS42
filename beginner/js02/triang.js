@@ -5,8 +5,8 @@ Linha 3: ***
 ...
 */
 function triangDeX(x) {
-    for (let index = 1; index <= x ; index++) {
-        console.log("*".repeat(index)); 
+    for (let i = 1; i <= x ; i++) {
+        console.log("*".repeat(i)); 
 }
 }
 
